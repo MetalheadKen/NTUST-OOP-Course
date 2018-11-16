@@ -1,0 +1,3 @@
+﻿  M10702130_HW6.cpp
+f:\users\ken\source\repos\m10702130_hw6\m10702130_hw6\m10702130_hw6.cpp(39): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  M10702130_HW6.vcxproj -> F:\Users\Ken\source\repos\M10702130_HW6\Debug\M10702130_HW6.exe
